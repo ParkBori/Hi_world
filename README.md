@@ -26,9 +26,16 @@
 
 2 **매크로 이름으로 사용할 알파벳을 눌러준다**
 
+![recorA](https://user-images.githubusercontent.com/105164444/170863488-f8f1a213-bd9e-4faf-be75-8b6fb95357d9.jpg)
+
 3 **기록 후 중립 모드에서 다시 q를 눌러준다.** 기록완료
 
 4 **중립모드에서 @ + q(매크로 이름으로 사용한 알파벳)을 누른면 재생**
+![@a](https://user-images.githubusercontent.com/105164444/170863561-55fbea82-8251-4af0-accc-8bd0a1a2115f.jpg)
+
+5 @@를 누르면 제일 마지막에 재생된 매크로가 실행됨.
+
+
 
 
 
