@@ -68,18 +68,20 @@ _외 다수 있음 궁금하면 구글에 검색해볼 것_
 
  Vim의 매크로의 작동 방식은 ***기록 -> 저장 -> 사용*** 입니다.
 
-1) **Vim의 중립 모드에서 q를 누른다.** 
+1 **Vim의 중립 모드에서 q를 누른다.** 
 
-2) **매크로 이름으로 사용할 알파벳을 눌러준다**
+2 **매크로 이름으로 사용할 알파벳을 눌러준다**
 
-![recorA](https://user-images.githubusercontent.com/105164444/170863488-f8f1a213-bd9e-4faf-be75-8b6fb95357d9.jpg)
+<img src="https://user-images.githubusercontent.com/105164444/170863488-f8f1a213-bd9e-4faf-be75-8b6fb95357d9.jpg" width = 500 height = 300/>
 
-3) **기록 후 중립 모드에서 다시 q를 눌러준다.** 기록완료
+3 **기록 후 중립 모드에서 다시 q를 눌러준다.** 기록완료
 
-4) **중립모드에서 @ + q(매크로 이름으로 사용한 알파벳)을 누른면 재생**
-![@a](https://user-images.githubusercontent.com/105164444/170863561-55fbea82-8251-4af0-accc-8bd0a1a2115f.jpg)
+4 **중립모드에서 @ + q(매크로 이름으로 사용한 알파벳)을 누른면 재생**
 
-5) @@를 누르면 제일 마지막에 재생된 매크로가 실행됨.
+<img src= "https://user-images.githubusercontent.com/105164444/170863561-55fbea82-8251-4af0-accc-8bd0a1a2115f.jpg" width = 500 height = 300/>
+
+
+5 @@를 누르면 제일 마지막에 재생된 매크로가 실행됨.
 
 
 
